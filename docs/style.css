@@ -1,0 +1,16 @@
+h1{
+    color: red;
+}
+thead{
+    color: darksalmon;
+}
+tbody{
+    background-color: aqua;
+}
+td{
+    color:rgb(255, 0, 242);
+}
+li{
+    color:rgb(178, 255, 77);
+
+}

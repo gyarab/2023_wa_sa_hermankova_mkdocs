@@ -1,9 +1,12 @@
-site_name: Javurkova
-
-nav:
-  - Uvod: index.md
-  - Maturita PG: maturita.md
-  - WA - 20.10.: wa-hodina.md
+site_name: Ema Heřmánková
 
 theme:
-    name: dracula
+  name: dracula
+
+nav:
+  - Úvod: 'index.md'
+  - Maturita RJ: 'maturita.md'
+  - WA hodina: 'wa-hodina.md'
+
+extra_css:
+  - style.css
