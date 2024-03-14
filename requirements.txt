@@ -1,3 +1,0 @@
-mkdocs
-mkdocs-dracula-theme
-mkdocs-mermaid2-plugin
