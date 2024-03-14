@@ -1,0 +1,1 @@
+# Obsah hodiny WA z 20.10.
